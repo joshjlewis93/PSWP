@@ -1,0 +1,13 @@
+name, mean performance , std dev
+Alice, 100, 0,
+Bob, 100, 5,
+Clare, 100, 10,
+Dennis, 100, 15,
+Eva, 95, 0,
+Fred, 95, 5,
+George, 95, 10,
+Harry, 95, 15,
+Ian, 90, 0,
+Josh, 90, 5,
+Kaila, 90, 10,
+Lisa, 90, 15,
